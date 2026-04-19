@@ -1,6 +1,6 @@
 # 🏷️ Project Title
 
-Work4Flow – GenAI Storytelling Slides (High-Fidelity HTML/CSS Presentation Interface)
+BITS & BRAINS AI – GenAI Storytelling Slides (High-Fidelity HTML/CSS Presentation Interface)
 
 ---
 
